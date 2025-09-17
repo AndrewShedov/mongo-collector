@@ -1,6 +1,6 @@
 [package]
 name = "mongo-collector"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "CLI tool for extracting values of a specific field from a MongoDB collection and saving them into a target collection."
 keywords = [
