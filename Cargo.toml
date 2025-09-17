@@ -1,0 +1,15 @@
+[package]
+name = "mongo-collector"
+version = "0.1.0"
+edition = "2021"
+description = "CLI tool for extracting values of a specific field from a MongoDB collection and saving them into a target collection."
+keywords = [
+    "mongodb",
+    "cli",
+    "collector",
+    "aggregation",
+    "data-processing"
+]
+license = "MIT"
+repository = "https://github.com/AndrewShedov/mongo-collector"
+homepage = "https://shedov.top"
